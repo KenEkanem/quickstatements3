@@ -1,0 +1,20 @@
+/* Custom CSS: Changes all button backgrounds from green to blue */
+
+button, input[type="submit"] {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+
+  a[role="button"] {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none; 
+  }
+   
